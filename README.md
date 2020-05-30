@@ -1,4 +1,4 @@
-# recycling
+# Use Spark to analyse UK waste and recycling trends
 
 UK Recycling Databricks Hackathon for Good SparkAISummit
 
