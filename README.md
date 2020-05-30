@@ -15,4 +15,5 @@ Insights of interest
    * China refuses accepting forein waste in 2019
    * London Boroghs move to mixed recycling collections in different years
 2. Compare Local Authority performance
-3. Simulate effects of lockdown (validate vs 2020 data to be released later in the year)
+3. Compare impacts and performance in terms of CO2e and revenue 
+4. Simulate effects of lockdown (validate vs 2020 data to be released later in the year)
